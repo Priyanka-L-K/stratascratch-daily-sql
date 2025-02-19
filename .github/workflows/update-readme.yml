@@ -3,7 +3,7 @@ name: Update README with SQL Files
 on:
   push:
     paths:
-      - '**/*.sql'  # Trigger the action when any .sql file is added or modified
+      - '**/*.sql'  # Trigger on new and modified .sql files
 
 jobs:
   update-readme:
@@ -58,3 +58,27 @@ def update_readme():
         # Replace the existing table with the new one
         content = content.replace(
             f'{start_marker}\n{content.split(start_marker)[1].split(end_marker)[0]}\n{end_marker}',
+            f'{start_marker}\n{new_table}\n{end_marker}'
+        )
+    else:
+        # If no table exists, create one and append it
+        content += f'\n\n{start_marker}\n{new_table}\n{end_marker}'
+    
+    # Write the updated content back to README
+    with open(readme_file, 'w') as f:
+        f.write(content)
+
+# Run the update function
+update_readme()
+        " > update_readme.py
+        
+        # Run the Python script to update the README
+        python3 update_readme.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update README with new or modified SQL files"
+        git push
