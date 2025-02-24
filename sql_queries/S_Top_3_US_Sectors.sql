@@ -4,3 +4,5 @@ where country = 'United States'
 group by sector
 order by avg_rank desc
 limit 3;
+
+-- USING BACKTICKS `` FOR RANK TO NEGATE ITS KEYWORD FUNCTIONALITY
