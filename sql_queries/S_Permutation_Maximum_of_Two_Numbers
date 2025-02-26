@@ -1,0 +1,4 @@
+select t1.number as n1, t2.number as n2, case when t1.number> t2.number then t1.number else t2.number end as maximum
+from deloitte_numbers t1
+cross join deloitte_numbers t2
+where t1.number <> t2.number;
