@@ -33,7 +33,7 @@ jobs:
 
               for filename in os.listdir(directory):
                   if filename.endswith(".sql"):
-                      question_name = filename.replace(".sql", "").replace("_", " ").title() #Adjust to your naming convention.
+                      question_name = filename.replace(".sql", "").replace("_", " ").title()
                       link = f"https://github.com/${{ github.repository }}/blob/main/{directory}/{filename}"
                       sql_links.append((question_name, link))
 
@@ -44,8 +44,10 @@ jobs:
                   f.write("Last updated on: $(date)\\n\\n")
                   f.write("## SQL Question Answers\\n\\n")
                   if sql_links:
+                      f.write("| Question | Answer Link |\n")
+                      f.write("| -------- | ----------- |\n")
                       for question, link in sql_links:
-                          f.write(f"- [{question}]({link})\\n")
+                          f.write(f"| {question} | [{question}]({link}) |\n")
                   else:
                       f.write("No SQL questions found in the sql_queries folder.\\n")
 
@@ -58,7 +60,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated README with SQL question links from sql_queries" || echo "No changes to commit"
+          git commit -m "Updated README with SQL question links table from sql_queries" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
