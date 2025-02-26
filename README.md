@@ -1,4 +1,4 @@
-Last updated on: Wed Feb 26 22:58:52 UTC 2025
+Last updated on: Wed Feb 26 23:05:35 UTC 2025
 
 ## SQL Question Answers
 
@@ -21,6 +21,7 @@ Last updated on: Wed Feb 26 22:58:52 UTC 2025
 | City With The Highest And Lowest Income Variance | [City With The Highest And Lowest Income Variance](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/City_With_The_Highest_and_Lowest_Income_Variance.sql) | 2025-02-26 |
 | Call Declines | [Call Declines](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Call_Declines.sql) | 2025-02-26 |
 | Bottom 2 Companies By Mobile Usage | [Bottom 2 Companies By Mobile Usage](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Bottom_2_Companies_By_Mobile_Usage.sql) | 2025-02-26 |
+| Best Wines By Points-To-Price | [Best Wines By Points-To-Price](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Best_Wines_By_Points-To-Price.sql) | 2025-02-26 |
 | Avg Earnings Per Weekday And Hour | [Avg Earnings Per Weekday And Hour](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Avg_Earnings_per_Weekday_and_Hour.sql) | 2025-02-26 |
 | S Find First And Last Times The Maximum Score Awarded | [S Find First And Last Times The Maximum Score Awarded](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_first_and_last_times_the_maximum_score_awarded.sql) | 2025-02-25 |
 | Verify That The First 4 Digits Are Equal To 1415 For All Phone Numbers | [Verify That The First 4 Digits Are Equal To 1415 For All Phone Numbers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Verify_that_the_first_4_digits_are_equal_to_1415_for_all_phone_numbers.sql) | 2025-02-23 |
