@@ -20,22 +20,11 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Move SQL Files to sql_queries Folder (Python)
-        run: |
-          python <<EOF
-          import os
-          import shutil
-
-          os.makedirs("sql_queries", exist_ok=True)
-          for filename in os.listdir("."):
-              if filename.endswith(".sql"):
-                  shutil.move(filename, os.path.join("sql_queries", filename))
-          EOF
-
       - name: Update README File with SQL Links
         run: |
           python <<EOF
           import os
+          from datetime import datetime
 
           def get_sql_links(directory="sql_queries"):
               sql_links = []
@@ -47,7 +36,13 @@ jobs:
                   if filename.endswith(".sql"):
                       question_name = filename.replace(".sql", "").replace("_", " ").title()
                       link = f"https://github.com/${{ github.repository }}/blob/main/{directory}/{filename}"
-                      sql_links.append((question_name, link))
+                      # Get the file's modification time
+                      file_path = os.path.join(directory, filename)
+                      modification_time = datetime.fromtimestamp(os.path.getmtime(file_path)).strftime("%Y-%m-%d")
+                      sql_links.append((question_name, link, modification_time))
+
+              # Sort by modification time (most recent first) and then by question name
+              sql_links.sort(key=lambda x: (x[2], x[0]), reverse=True)
 
               return sql_links
 
@@ -56,10 +51,10 @@ jobs:
                   f.write("Last updated on: $(date)\\n\\n")
                   f.write("## SQL Question Answers\\n\\n")
                   if sql_links:
-                      f.write("| Question | Answer Link |\n")
-                      f.write("| -------- | ----------- |\n")
-                      for question, link in sql_links:
-                          f.write(f"| {question} | [{question}]({link}) |\n")
+                      f.write("| Question | Answer Link | Date Added |\n")
+                      f.write("| -------- | ----------- | ---------- |\n")
+                      for question, link, modification_time in sql_links:
+                          f.write(f"| {question} | [{question}]({link}) | {modification_time} |\n")
                   else:
                       f.write("No SQL questions found in the sql_queries folder.\\n")
 
@@ -71,8 +66,8 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add sql_queries/* README.md
-          git commit -m "Moved SQL files to sql_queries and updated README" || echo "No changes to commit"
+          git add README.md
+          git commit -m "Updated README with SQL question links and dates" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
