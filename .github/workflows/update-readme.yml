@@ -20,14 +20,17 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Move SQL Files to sql_queries Folder
+      - name: Move SQL Files to sql_queries Folder (Python)
         run: |
-          mkdir -p sql_queries #Create the directory if it doesn't exist
-          for file in *.sql; do
-            if [ -f "$file" ]; then
-              mv "$file" sql_queries/
-            fi
-          done
+          python <<EOF
+          import os
+          import shutil
+
+          os.makedirs("sql_queries", exist_ok=True)
+          for filename in os.listdir("."):
+              if filename.endswith(".sql"):
+                  shutil.move(filename, os.path.join("sql_queries", filename))
+          EOF
 
       - name: Update README File with SQL Links
         run: |
