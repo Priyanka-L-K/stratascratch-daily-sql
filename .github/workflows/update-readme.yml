@@ -1,4 +1,4 @@
-name: Update README
+name: Update README with SQL Question Links
 
 on:
   push:
@@ -20,16 +20,45 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update README File
+      - name: Update README File with SQL Links
         run: |
-          echo "Last updated on: $(date)" > README.md
+          python <<EOF
+          import os
+
+          def get_sql_links(directory="sql_queries"):
+              sql_links = []
+              if not os.path.exists(directory):
+                  print(f"Warning: Directory '{directory}' not found.")
+                  return sql_links
+
+              for filename in os.listdir(directory):
+                  if filename.endswith(".sql"):
+                      question_name = filename.replace(".sql", "").replace("_", " ").title() #Adjust to your naming convention.
+                      link = f"https://github.com/${{ github.repository }}/blob/main/{directory}/{filename}"
+                      sql_links.append((question_name, link))
+
+              return sql_links
+
+          def update_readme(sql_links):
+              with open("README.md", "w") as f:
+                  f.write("Last updated on: $(date)\\n\\n")
+                  f.write("## SQL Question Answers\\n\\n")
+                  if sql_links:
+                      for question, link in sql_links:
+                          f.write(f"- [{question}]({link})\\n")
+                  else:
+                      f.write("No SQL questions found in the sql_queries folder.\\n")
+
+          sql_links = get_sql_links()
+          update_readme(sql_links)
+          EOF
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated README with latest timestamp" || echo "No changes to commit"
+          git commit -m "Updated README with SQL question links from sql_queries" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
