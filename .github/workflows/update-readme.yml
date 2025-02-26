@@ -1,14 +1,35 @@
-    - name: Update README with SQL files
-      run: |
-        echo "Running SQL file detection..."
-        python3 -c "
-import os
+name: Update README
 
-project_directory = './'
-sql_files = [f for f in os.listdir(project_directory) if f.endswith('.sql')]
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
-if not sql_files:
-    print('No .sql files found!')
-else:
-    print('Detected SQL files:', sql_files)
-"
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Update README File
+        run: |
+          echo "Last updated on: $(date)" > README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated README with latest timestamp" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
