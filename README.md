@@ -1,4 +1,4 @@
-Last updated on: Wed Feb 26 23:16:47 UTC 2025
+Last updated on: Wed Feb 26 23:20:18 UTC 2025
 
 ## SQL Question Answers
 
@@ -18,6 +18,7 @@ Last updated on: Wed Feb 26 23:16:47 UTC 2025
 | Pizza Partners | [Pizza Partners](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Pizza_Partners.sql) | 2025-02-26 |
 | Initial Call Duration | [Initial Call Duration](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Initial_Call_Duration.sql) | 2025-02-26 |
 | Hour With The Highest Order Volume | [Hour With The Highest Order Volume](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Hour_With_The_Highest_Order_Volume.sql) | 2025-02-26 |
+| Find Top Two Hotels With Most Negative Reviews | [Find Top Two Hotels With Most Negative Reviews](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_two_hotels_with_most_negative_reviews.sql) | 2025-02-26 |
 | Company With Most Desktop Only Users | [Company With Most Desktop Only Users](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Company_With_Most_Desktop_Only_Users.sql) | 2025-02-26 |
 | City With The Highest And Lowest Income Variance | [City With The Highest And Lowest Income Variance](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/City_With_The_Highest_and_Lowest_Income_Variance.sql) | 2025-02-26 |
 | Call Declines | [Call Declines](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Call_Declines.sql) | 2025-02-26 |
