@@ -1,84 +1,14 @@
-name: Update README with SQL Files
-
-on:
-  push:
-    paths:
-      - '**/*.sql'  # Trigger on new and modified .sql files
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-
     - name: Update README with SQL files
       run: |
-        # Create the Python script that updates README
-        echo "
+        echo "Running SQL file detection..."
+        python3 -c "
 import os
 
-# Path to your project directory
 project_directory = './'
+sql_files = [f for f in os.listdir(project_directory) if f.endswith('.sql')]
 
-# Path to the README file
-readme_file = 'README.md'
-
-# Function to generate the markdown table with .sql files
-def generate_sql_file_table():
-    table = '| **File Name** | \n| ------------- | \n'
-    
-    # Get all the .sql files in the project directory
-    for file in os.listdir(project_directory):
-        if file.endswith('.sql'):
-            table += f'| [{file}]({file}) |\n'
-    
-    return table
-
-# Function to update the README file
-def update_readme():
-    # Generate the new table with .sql file links
-    new_table = generate_sql_file_table()
-    
-    # Read the current README file
-    with open(readme_file, 'r') as f:
-        content = f.read()
-    
-    # Find the section in the README where the table is located
-    start_marker = '<!-- START SQL TABLE -->'
-    end_marker = '<!-- END SQL TABLE -->'
-    
-    if start_marker in content and end_marker in content:
-        # Replace the existing table with the new one
-        content = content.replace(
-            f'{start_marker}\n{content.split(start_marker)[1].split(end_marker)[0]}\n{end_marker}',
-            f'{start_marker}\n{new_table}\n{end_marker}'
-        )
-    else:
-        # If no table exists, create one and append it
-        content += f'\n\n{start_marker}\n{new_table}\n{end_marker}'
-    
-    # Write the updated content back to README
-    with open(readme_file, 'w') as f:
-        f.write(content)
-
-# Run the update function
-update_readme()
-        " > update_readme.py
-        
-        # Run the Python script to update the README
-        python3 update_readme.py
-
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add README.md
-        git commit -m "Update README with new or modified SQL files"
-        git push
+if not sql_files:
+    print('No .sql files found!')
+else:
+    print('Detected SQL files:', sql_files)
+"
