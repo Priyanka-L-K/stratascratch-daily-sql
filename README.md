@@ -1,4 +1,4 @@
-Last updated on: Wed Feb 26 23:08:46 UTC 2025
+Last updated on: Wed Feb 26 23:09:28 UTC 2025
 
 ## SQL Question Answers
 
@@ -10,6 +10,7 @@ Last updated on: Wed Feb 26 23:08:46 UTC 2025
 | Top 2 Users With Most Calls | [Top 2 Users With Most Calls](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_2_Users_With_Most_Calls.sql) | 2025-02-26 |
 | Stock Codes With Prices Above Average | [Stock Codes With Prices Above Average](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Stock_Codes_with_Prices_Above_Average.sql) | 2025-02-26 |
 | Single Facility Corporations | [Single Facility Corporations](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Single_Facility_Corporations.sql) | 2025-02-26 |
+| Single Facility Corporation | [Single Facility Corporation](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Single_Facility_Corporation.sql) | 2025-02-26 |
 | Signups By Billing Cycle | [Signups By Billing Cycle](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Signups_By_Billing_Cycle.sql) | 2025-02-26 |
 | Share Of Loan Balance | [Share Of Loan Balance](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Share_of_Loan_Balance.sql) | 2025-02-26 |
 | Share Of Active Users | [Share Of Active Users](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Share_of_Active_Users.sql) | 2025-02-26 |
