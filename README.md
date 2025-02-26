@@ -1,4 +1,4 @@
-Last updated on: Wed Feb 26 23:20:18 UTC 2025
+Last updated on: Wed Feb 26 23:57:31 UTC 2025
 
 ## SQL Question Answers
 
@@ -13,6 +13,7 @@ Last updated on: Wed Feb 26 23:20:18 UTC 2025
 | Signups By Billing Cycle | [Signups By Billing Cycle](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Signups_By_Billing_Cycle.sql) | 2025-02-26 |
 | Share Of Loan Balance | [Share Of Loan Balance](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Share_of_Loan_Balance.sql) | 2025-02-26 |
 | Share Of Active Users | [Share Of Active Users](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Share_of_Active_Users.sql) | 2025-02-26 |
+| S Top 3 Year Month Sales | [S Top 3 Year Month Sales](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_3_Year_Month_Sales.sql) | 2025-02-26 |
 | Rush Hour Calls | [Rush Hour Calls](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Rush_Hour_Calls.sql) | 2025-02-26 |
 | Recent Refinance Submissions | [Recent Refinance Submissions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Recent_Refinance_Submissions.sql) | 2025-02-26 |
 | Pizza Partners | [Pizza Partners](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Pizza_Partners.sql) | 2025-02-26 |
