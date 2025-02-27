@@ -1,9 +1,10 @@
-Last updated on: 2025-02-27 00:12:54 CST-0600
+Last updated on: 2025-02-27 07:39:35 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S Users By Average Session Time | [S Users By Average Session Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Users_By_Average_Session_Time.sql) | 2025-02-27 |
 | Users Exclusive Per Client | [Users Exclusive Per Client](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Users_Exclusive_Per_Client.sql) | 2025-02-26 |
 | Update Call Duration | [Update Call Duration](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Update_Call_Duration.sql) | 2025-02-26 |
 | Top Streamers | [Top Streamers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_Streamers.sql) | 2025-02-26 |
