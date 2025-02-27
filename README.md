@@ -1,4 +1,4 @@
-Last updated on: 2025-02-26 18:02:36 CST-0600
+Last updated on: 2025-02-26 18:17:54 CST-0600
 
 ## SQL Question Answers
 
@@ -14,6 +14,7 @@ Last updated on: 2025-02-26 18:02:36 CST-0600
 | Share Of Loan Balance | [Share Of Loan Balance](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Share_of_Loan_Balance.sql) | 2025-02-26 |
 | Share Of Active Users | [Share Of Active Users](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Share_of_Active_Users.sql) | 2025-02-26 |
 | S Top 3 Year Month Sales | [S Top 3 Year Month Sales](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_3_Year_Month_Sales.sql) | 2025-02-26 |
+| S Successful Customer Sign Up Responses | [S Successful Customer Sign Up Responses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Successful_Customer_Sign_Up_Responses.sql) | 2025-02-26 |
 | S Best Wines By Points-To-Price | [S Best Wines By Points-To-Price](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Best_Wines_By_Points-To-Price.sql) | 2025-02-26 |
 | Rush Hour Calls | [Rush Hour Calls](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Rush_Hour_Calls.sql) | 2025-02-26 |
 | Recent Refinance Submissions | [Recent Refinance Submissions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Recent_Refinance_Submissions.sql) | 2025-02-26 |
