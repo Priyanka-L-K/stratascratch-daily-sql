@@ -1,9 +1,10 @@
-Last updated on: 2025-02-27 21:21:20 CST-0600
+Last updated on: 2025-02-27 21:26:49 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Workers With Highest Salaries | [Workers With Highest Salaries](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Workers_With_Highest_Salaries.sql) | 2025-02-27 |
 | S Users By Average Session Time | [S Users By Average Session Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Users_By_Average_Session_Time.sql) | 2025-02-27 |
 | S Identify Returning Active Users | [S Identify Returning Active Users](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Identify_returning_active_users.sql) | 2025-02-27 |
 | Hard Acceptance Rate By Date | [Hard Acceptance Rate By Date](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Hard_Acceptance_Rate_By_Date.sql) | 2025-02-27 |
