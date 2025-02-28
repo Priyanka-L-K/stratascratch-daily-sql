@@ -1,4 +1,4 @@
-Last updated on: 2025-02-27 23:24:00 CST-0600
+Last updated on: 2025-02-27 23:28:42 CST-0600
 
 ## SQL Question Answers
 
@@ -11,6 +11,7 @@ Last updated on: 2025-02-27 23:24:00 CST-0600
 | S Highest Energy Consumption | [S Highest Energy Consumption](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Highest_Energy_Consumption.sql) | 2025-02-27 |
 | S Highest Cost Orders | [S Highest Cost Orders](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Highest_Cost_Orders.sql) | 2025-02-27 |
 | Hard Acceptance Rate By Date | [Hard Acceptance Rate By Date](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Hard_Acceptance_Rate_By_Date.sql) | 2025-02-27 |
+| Cs Total Monatery Value Per Month By Service | [Cs Total Monatery Value Per Month By Service](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/CS_Total_Monatery_Value_Per_Month_By_Service.sql) | 2025-02-27 |
 | Users Exclusive Per Client | [Users Exclusive Per Client](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Users_Exclusive_Per_Client.sql) | 2025-02-26 |
 | Update Call Duration | [Update Call Duration](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Update_Call_Duration.sql) | 2025-02-26 |
 | Top Streamers | [Top Streamers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_Streamers.sql) | 2025-02-26 |
