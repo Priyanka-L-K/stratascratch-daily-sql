@@ -1,9 +1,10 @@
-Last updated on: 2025-02-28 16:29:42 CST-0600
+Last updated on: 2025-02-28 16:47:43 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S Monthly Churn Rate | [S Monthly Churn Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Monthly_Churn_Rate.sql) | 2025-02-28 |
 | Number Of Units Per Nationality | [Number Of Units Per Nationality](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Number_Of_Units_Per_Nationality.sql) | 2025-02-28 |
 | Workers With Highest Salaries | [Workers With Highest Salaries](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Workers_With_Highest_Salaries.sql) | 2025-02-27 |
 | S Users By Average Session Time | [S Users By Average Session Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Users_By_Average_Session_Time.sql) | 2025-02-27 |
