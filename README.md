@@ -1,4 +1,4 @@
-Last updated on: 2025-02-27 23:51:06 CST-0600
+Last updated on: 2025-02-28 00:00:03 CST-0600
 
 ## SQL Question Answers
 
@@ -10,6 +10,7 @@ Last updated on: 2025-02-27 23:51:06 CST-0600
 | S Identify Returning Active Users | [S Identify Returning Active Users](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Identify_returning_active_users.sql) | 2025-02-27 |
 | S Highest Energy Consumption | [S Highest Energy Consumption](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Highest_Energy_Consumption.sql) | 2025-02-27 |
 | S Highest Cost Orders | [S Highest Cost Orders](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Highest_Cost_Orders.sql) | 2025-02-27 |
+| S Find Average Rating Of Movie Stars | [S Find Average Rating Of Movie Stars](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_average_rating_of_movie_stars.sql) | 2025-02-27 |
 | S Activity Rank | [S Activity Rank](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Activity_Rank.sql) | 2025-02-27 |
 | Hard Acceptance Rate By Date | [Hard Acceptance Rate By Date](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Hard_Acceptance_Rate_By_Date.sql) | 2025-02-27 |
 | Cs Total Monatery Value Per Month By Service | [Cs Total Monatery Value Per Month By Service](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/CS_Total_Monatery_Value_Per_Month_By_Service.sql) | 2025-02-27 |
