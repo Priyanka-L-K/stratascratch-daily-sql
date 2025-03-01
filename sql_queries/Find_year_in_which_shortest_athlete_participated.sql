@@ -15,6 +15,6 @@ WITH shortest_height AS (
     FROM olympics_athletes_events
     WHERE height IS NOT NULL
 )
-SELECT year, height
+SELECT year
 FROM olympics_athletes_events
 WHERE height = (SELECT min_height FROM shortest_height);
