@@ -1,4 +1,4 @@
-Last updated on: 2025-03-01 22:32:59 CST-0600
+Last updated on: 2025-03-01 23:51:34 CST-0600
 
 ## SQL Question Answers
 
@@ -8,6 +8,7 @@ Last updated on: 2025-03-01 22:32:59 CST-0600
 | S Libraries With Highest Checkouts | [S Libraries With Highest Checkouts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Libraries_With_Highest_Checkouts.sql) | 2025-03-01 |
 | S Flags Per Video | [S Flags Per Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Flags_per_Video.sql) | 2025-03-01 |
 | S Apple Product Counts | [S Apple Product Counts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Apple_Product_Counts.sql) | 2025-03-01 |
+| Customer Revenue In March | [Customer Revenue In March](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Customer_Revenue_In_March.sql) | 2025-03-01 |
 | S Successful Lower Priced Product | [S Successful Lower Priced Product](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Successful_Lower_Priced_Product.sql) | 2025-02-28 |
 | S Monthly Churn Rate | [S Monthly Churn Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Monthly_Churn_Rate.sql) | 2025-02-28 |
 | Number Of Units Per Nationality | [Number Of Units Per Nationality](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Number_Of_Units_Per_Nationality.sql) | 2025-02-28 |
