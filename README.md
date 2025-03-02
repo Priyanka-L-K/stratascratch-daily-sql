@@ -1,9 +1,10 @@
-Last updated on: 2025-03-01 21:36:38 CST-0600
+Last updated on: 2025-03-01 21:46:27 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S Libraries With Highest Checkouts | [S Libraries With Highest Checkouts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Libraries_With_Highest_Checkouts.sql) | 2025-03-01 |
 | S Flags Per Video | [S Flags Per Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Flags_per_Video.sql) | 2025-03-01 |
 | S Apple Product Counts | [S Apple Product Counts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Apple_Product_Counts.sql) | 2025-03-01 |
 | S Successful Lower Priced Product | [S Successful Lower Priced Product](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Successful_Lower_Priced_Product.sql) | 2025-02-28 |
