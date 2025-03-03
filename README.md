@@ -1,4 +1,4 @@
-Last updated on: 2025-03-02 23:48:37 CST-0600
+Last updated on: 2025-03-02 23:55:34 CST-0600
 
 ## SQL Question Answers
 
@@ -9,6 +9,7 @@ Last updated on: 2025-03-02 23:48:37 CST-0600
 | S Make Friends Network Symmetric | [S Make Friends Network Symmetric](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Make_friends_network_symmetric.sql) | 2025-03-02 |
 | S Find Students At Median Writing | [S Find Students At Median Writing](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_Students_At_Median_Writing.sql) | 2025-03-02 |
 | S Find Average Rating Movie Stars | [S Find Average Rating Movie Stars](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_average_rating_movie_stars.sql) | 2025-03-02 |
+| No Order Customers | [No Order Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/No_Order_Customers.sql) | 2025-03-02 |
 | S Number Of Streets Per Zip Code | [S Number Of Streets Per Zip Code](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Number_of_Streets_Per_Zip_Code.sql) | 2025-03-01 |
 | S Libraries With Highest Checkouts | [S Libraries With Highest Checkouts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Libraries_With_Highest_Checkouts.sql) | 2025-03-01 |
 | S Flags Per Video | [S Flags Per Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Flags_per_Video.sql) | 2025-03-01 |
