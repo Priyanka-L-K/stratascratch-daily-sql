@@ -1,9 +1,10 @@
-Last updated on: 2025-03-03 22:32:46 CST-0600
+Last updated on: 2025-03-03 22:49:25 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Salary Less Than Twice The Average | [Salary Less Than Twice The Average](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Salary_Less_Than_Twice_The_Average.sql) | 2025-03-03 |
 | S Top Businesses With Most Reviews | [S Top Businesses With Most Reviews](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_Businesses_With_Most_Reviews.sql) | 2025-03-03 |
 | S Products Never Sold | [S Products Never Sold](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Products_Never_Sold.sql) | 2025-03-03 |
 | S Find Nominee Who Has Won Most Oscars | [S Find Nominee Who Has Won Most Oscars](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_nominee_who_has_won_most_Oscars.sql) | 2025-03-03 |
