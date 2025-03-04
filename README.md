@@ -1,9 +1,10 @@
-Last updated on: 2025-03-03 22:27:25 CST-0600
+Last updated on: 2025-03-03 22:32:46 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S Top Businesses With Most Reviews | [S Top Businesses With Most Reviews](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_Businesses_With_Most_Reviews.sql) | 2025-03-03 |
 | S Products Never Sold | [S Products Never Sold](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Products_Never_Sold.sql) | 2025-03-03 |
 | S Find Nominee Who Has Won Most Oscars | [S Find Nominee Who Has Won Most Oscars](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_nominee_who_has_won_most_Oscars.sql) | 2025-03-03 |
 | S Day 1 Common Reactions | [S Day 1 Common Reactions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Day_1_Common_Reactions.sql) | 2025-03-03 |
