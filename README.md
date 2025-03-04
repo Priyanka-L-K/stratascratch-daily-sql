@@ -1,4 +1,4 @@
-Last updated on: 2025-03-03 22:12:48 CST-0600
+Last updated on: 2025-03-03 22:16:07 CST-0600
 
 ## SQL Question Answers
 
@@ -6,6 +6,7 @@ Last updated on: 2025-03-03 22:12:48 CST-0600
 | -------- | ----------- | ---------- |
 | S Products Never Sold | [S Products Never Sold](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Products_Never_Sold.sql) | 2025-03-03 |
 | Find Number Of Wines Each Taster Tasted Within Variation | [Find Number Of Wines Each Taster Tasted Within Variation](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_number_of_wines_each_taster_tasted_within_variation.sql) | 2025-03-03 |
+| Day 1 Common Reactions | [Day 1 Common Reactions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Day_1_Common_Reactions.sql) | 2025-03-03 |
 | Top 10 Songs 2010 | [Top 10 Songs 2010](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_10_Songs_2010.sql) | 2025-03-02 |
 | Titanic Survivors Non-Survivors | [Titanic Survivors Non-Survivors](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Titanic_Survivors_Non-Survivors.sql) | 2025-03-02 |
 | S Make Friends Network Symmetric | [S Make Friends Network Symmetric](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Make_friends_network_symmetric.sql) | 2025-03-02 |
