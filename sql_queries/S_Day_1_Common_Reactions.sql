@@ -1,4 +1,7 @@
 -- consider ties as well
+-- WHEN USING AGGREGATES IN WINDOW FUNCTION USE GROUP BY (EX: COUNT(), SUM(), AVG())
+-- 1. use count(*) then use dense_rank() with order by no partition by
+-- 2. use group by clause
 
 My answer
 
