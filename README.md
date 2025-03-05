@@ -1,10 +1,11 @@
-Last updated on: 2025-03-05 00:22:21 CST-0600
+Last updated on: 2025-03-05 00:28:26 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | Ss Interaction Summary | [Ss Interaction Summary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Interaction_Summary.sql) | 2025-03-05 |
+| Highest Number Of Orders | [Highest Number Of Orders](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Highest_Number_Of_Orders.sql) | 2025-03-05 |
 | Find Number Of Violations That Each School Had | [Find Number Of Violations That Each School Had](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_number_of_violations_that_each_school_had.sql) | 2025-03-04 |
 | Duplicate Emails | [Duplicate Emails](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Duplicate_Emails.sql) | 2025-03-04 |
 | Departments With Less Than 4 Employees | [Departments With Less Than 4 Employees](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Departments_With_Less_Than_4_Employees.sql) | 2025-03-04 |
