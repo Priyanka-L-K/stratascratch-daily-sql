@@ -1,10 +1,11 @@
-Last updated on: 2025-03-04 23:51:21 CST-0600
+Last updated on: 2025-03-04 23:54:43 CST-0600
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | Duplicate Emails | [Duplicate Emails](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Duplicate_Emails.sql) | 2025-03-04 |
+| Departments With Less Than 4 Employees | [Departments With Less Than 4 Employees](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Departments_With_Less_Than_4_Employees.sql) | 2025-03-04 |
 | Salary Less Than Twice The Average | [Salary Less Than Twice The Average](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Salary_Less_Than_Twice_The_Average.sql) | 2025-03-03 |
 | S Top Businesses With Most Reviews | [S Top Businesses With Most Reviews](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_Businesses_With_Most_Reviews.sql) | 2025-03-03 |
 | S Time From 10Th Runner | [S Time From 10Th Runner](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Time_from_10th_Runner.sql) | 2025-03-03 |
