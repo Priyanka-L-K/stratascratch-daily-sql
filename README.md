@@ -1,4 +1,4 @@
-Last updated on: 2025-03-19 21:09:05 CDT-0500
+Last updated on: 2025-03-19 21:13:35 CDT-0500
 
 ## SQL Question Answers
 
@@ -6,6 +6,7 @@ Last updated on: 2025-03-19 21:09:05 CDT-0500
 | -------- | ----------- | ---------- |
 | S Second Highest Salary | [S Second Highest Salary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Second_Highest_Salary.sql) | 2025-03-19 |
 | Processed Ticket Rate By Type | [Processed Ticket Rate By Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Processed_Ticket_Rate_By_Type.sql) | 2025-03-19 |
+| Frequent Customers | [Frequent Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Frequent_Customers.sql) | 2025-03-19 |
 | Find Count Verified Non-Verified Airbnb Hosts | [Find Count Verified Non-Verified Airbnb Hosts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_count_verified_non-verified_Airbnb_hosts.sql) | 2025-03-19 |
 | Complete Reviews Of Categories | [Complete Reviews Of Categories](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Complete_Reviews_of_Categories.sql) | 2025-03-19 |
 | Ss Interaction Summary | [Ss Interaction Summary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Interaction_Summary.sql) | 2025-03-05 |
