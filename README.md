@@ -1,4 +1,4 @@
-Last updated on: 2025-03-19 20:33:16 CDT-0500
+Last updated on: 2025-03-19 21:00:58 CDT-0500
 
 ## SQL Question Answers
 
@@ -6,6 +6,7 @@ Last updated on: 2025-03-19 20:33:16 CDT-0500
 | -------- | ----------- | ---------- |
 | Processed Ticket Rate By Type | [Processed Ticket Rate By Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Processed_Ticket_Rate_By_Type.sql) | 2025-03-19 |
 | Find Count Verified Non-Verified Airbnb Hosts | [Find Count Verified Non-Verified Airbnb Hosts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_count_verified_non-verified_Airbnb_hosts.sql) | 2025-03-19 |
+| Complete Reviews Of Categories | [Complete Reviews Of Categories](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Complete_Reviews_of_Categories.sql) | 2025-03-19 |
 | Ss Interaction Summary | [Ss Interaction Summary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Interaction_Summary.sql) | 2025-03-05 |
 | Highest Number Of Orders | [Highest Number Of Orders](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Highest_Number_Of_Orders.sql) | 2025-03-05 |
 | Find Number Of Violations That Each School Had | [Find Number Of Violations That Each School Had](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_number_of_violations_that_each_school_had.sql) | 2025-03-04 |
