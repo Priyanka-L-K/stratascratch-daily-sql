@@ -1,10 +1,11 @@
-Last updated on: 2025-03-21 18:49:35 CDT-0500
+Last updated on: 2025-03-21 18:56:14 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Election Results | [S Election Results](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Election_Results.sql) | 2025-03-21 |
+| Find Top Ten Hotels With Highest Ratings | [Find Top Ten Hotels With Highest Ratings](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_ten_hotels_with_highest_ratings.sql) | 2025-03-21 |
 | S Second Highest Salary | [S Second Highest Salary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Second_Highest_Salary.sql) | 2025-03-19 |
 | Processed Ticket Rate By Type | [Processed Ticket Rate By Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Processed_Ticket_Rate_By_Type.sql) | 2025-03-19 |
 | Frequent Customers | [Frequent Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Frequent_Customers.sql) | 2025-03-19 |
