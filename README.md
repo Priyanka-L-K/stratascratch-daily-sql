@@ -1,10 +1,11 @@
-Last updated on: 2025-03-21 21:00:38 CDT-0500
+Last updated on: 2025-03-21 21:10:03 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Election Results | [S Election Results](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Election_Results.sql) | 2025-03-21 |
+| S Churn Rate Of Lyft Drivers | [S Churn Rate Of Lyft Drivers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Churn_Rate_Of_Lyft_Drivers.sql) | 2025-03-21 |
 | Incomplete Employed At Google | [Incomplete Employed At Google](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Incomplete_Employed_at_Google.sql) | 2025-03-21 |
 | Find Top Ten Hotels With Highest Ratings | [Find Top Ten Hotels With Highest Ratings](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_ten_hotels_with_highest_ratings.sql) | 2025-03-21 |
 | S Second Highest Salary | [S Second Highest Salary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Second_Highest_Salary.sql) | 2025-03-19 |
