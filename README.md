@@ -1,4 +1,4 @@
-Last updated on: 2025-03-21 21:10:03 CDT-0500
+Last updated on: 2025-03-21 21:13:59 CDT-0500
 
 ## SQL Question Answers
 
@@ -7,6 +7,7 @@ Last updated on: 2025-03-21 21:10:03 CDT-0500
 | S Election Results | [S Election Results](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Election_Results.sql) | 2025-03-21 |
 | S Churn Rate Of Lyft Drivers | [S Churn Rate Of Lyft Drivers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Churn_Rate_Of_Lyft_Drivers.sql) | 2025-03-21 |
 | Incomplete Employed At Google | [Incomplete Employed At Google](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Incomplete_Employed_at_Google.sql) | 2025-03-21 |
+| Highest Target Under Manager | [Highest Target Under Manager](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Highest_Target_Under_Manager.sql) | 2025-03-21 |
 | Find Top Ten Hotels With Highest Ratings | [Find Top Ten Hotels With Highest Ratings](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_ten_hotels_with_highest_ratings.sql) | 2025-03-21 |
 | S Second Highest Salary | [S Second Highest Salary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Second_Highest_Salary.sql) | 2025-03-19 |
 | Processed Ticket Rate By Type | [Processed Ticket Rate By Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Processed_Ticket_Rate_By_Type.sql) | 2025-03-19 |
