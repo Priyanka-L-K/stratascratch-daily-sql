@@ -1,9 +1,10 @@
-Last updated on: 2025-03-21 21:13:59 CDT-0500
+Last updated on: 2025-03-21 21:19:17 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Top Ranked Songs | [Top Ranked Songs](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_Ranked_Songs.sql) | 2025-03-21 |
 | S Election Results | [S Election Results](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Election_Results.sql) | 2025-03-21 |
 | S Churn Rate Of Lyft Drivers | [S Churn Rate Of Lyft Drivers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Churn_Rate_Of_Lyft_Drivers.sql) | 2025-03-21 |
 | Incomplete Employed At Google | [Incomplete Employed At Google](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Incomplete_Employed_at_Google.sql) | 2025-03-21 |
