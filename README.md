@@ -1,4 +1,4 @@
-Last updated on: 2025-03-23 16:04:35 CDT-0500
+Last updated on: 2025-03-23 16:12:02 CDT-0500
 
 ## SQL Question Answers
 
@@ -8,6 +8,7 @@ Last updated on: 2025-03-23 16:04:35 CDT-0500
 | S Successfully Sent Messages | [S Successfully Sent Messages](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Successfully_Sent_Messages.sql) | 2025-03-23 |
 | S Find Dow That Most People Check-In | [S Find Dow That Most People Check-In](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_DOW_that_most_people_check-in.sql) | 2025-03-23 |
 | Product Transaction Count | [Product Transaction Count](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Product_Transaction_Count.sql) | 2025-03-23 |
+| Pivot Find Survivors Distributed By Gender Passenger Classes | [Pivot Find Survivors Distributed By Gender Passenger Classes](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/PIVOT_Find_survivors_distributed_by_gender_passenger_classes.sql) | 2025-03-23 |
 | Liked Posts | [Liked Posts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Liked_Posts.sql) | 2025-03-23 |
 | City With Most Customers | [City With Most Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/City_with_Most_Customers.sql) | 2025-03-23 |
 | S Least Popular Video | [S Least Popular Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Least_Popular_Video.sql) | 2025-03-22 |
