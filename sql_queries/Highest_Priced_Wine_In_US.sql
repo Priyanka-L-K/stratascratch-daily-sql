@@ -13,7 +13,7 @@ no_spanish_overlap AS (
     SELECT variety
     FROM winemag_p1
     WHERE country = 'US'
-    AND variety NOT IN (SELECT DISTINCT variety FROM winemag_p1 WHERE country IN ('Spain', 'Argentina'))
+    AND variety NOT IN (SELECT DISTINCT variety FROM winemag_p1 WHERE country NOT IN ('US'))
 )
 SELECT v.variety, MAX(w.price) AS max_price
 FROM winemag_p1 w
