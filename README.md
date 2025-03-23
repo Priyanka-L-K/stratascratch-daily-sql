@@ -1,9 +1,10 @@
-Last updated on: 2025-03-22 20:53:24 CDT-0500
+Last updated on: 2025-03-22 21:00:25 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S Least Popular Video | [S Least Popular Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Least_Popular_Video.sql) | 2025-03-22 |
 | Meta Facebook Accounts | [Meta Facebook Accounts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Meta_Facebook_Accounts.sql) | 2025-03-22 |
 | Find Library Types Highest Total Checkouts By Adults Registered In 2010 | [Find Library Types Highest Total Checkouts By Adults Registered In 2010](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_library_types_highest_total_checkouts_by_adults_registered_in_2010.sql) | 2025-03-22 |
 | Top Ranked Songs | [Top Ranked Songs](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_Ranked_Songs.sql) | 2025-03-21 |
