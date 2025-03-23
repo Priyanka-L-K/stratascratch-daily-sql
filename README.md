@@ -1,9 +1,10 @@
-Last updated on: 2025-03-23 15:47:45 CDT-0500
+Last updated on: 2025-03-23 15:59:12 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| W Athletes On Single Or Multiple Teams | [W Athletes On Single Or Multiple Teams](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/W_Athletes_On_Single_Or_Multiple_Teams.sql) | 2025-03-23 |
 | S Successfully Sent Messages | [S Successfully Sent Messages](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Successfully_Sent_Messages.sql) | 2025-03-23 |
 | S Find Dow That Most People Check-In | [S Find Dow That Most People Check-In](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_DOW_that_most_people_check-in.sql) | 2025-03-23 |
 | City With Most Customers | [City With Most Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/City_with_Most_Customers.sql) | 2025-03-23 |
