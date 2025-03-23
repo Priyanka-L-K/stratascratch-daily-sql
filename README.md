@@ -1,9 +1,10 @@
-Last updated on: 2025-03-23 15:18:44 CDT-0500
+Last updated on: 2025-03-23 15:43:22 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S Find Dow That Most People Check-In | [S Find Dow That Most People Check-In](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_DOW_that_most_people_check-in.sql) | 2025-03-23 |
 | City With Most Customers | [City With Most Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/City_with_Most_Customers.sql) | 2025-03-23 |
 | S Least Popular Video | [S Least Popular Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Least_Popular_Video.sql) | 2025-03-22 |
 | Meta Facebook Accounts | [Meta Facebook Accounts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Meta_Facebook_Accounts.sql) | 2025-03-22 |
