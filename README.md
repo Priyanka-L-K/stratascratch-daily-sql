@@ -1,9 +1,10 @@
-Last updated on: 2025-03-23 01:11:36 CDT-0500
+Last updated on: 2025-03-23 15:18:44 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| City With Most Customers | [City With Most Customers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/City_with_Most_Customers.sql) | 2025-03-23 |
 | S Least Popular Video | [S Least Popular Video](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Least_Popular_Video.sql) | 2025-03-22 |
 | Meta Facebook Accounts | [Meta Facebook Accounts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Meta_Facebook_Accounts.sql) | 2025-03-22 |
 | Highest Priced Wine In Us | [Highest Priced Wine In Us](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Highest_Priced_Wine_In_US.sql) | 2025-03-22 |
