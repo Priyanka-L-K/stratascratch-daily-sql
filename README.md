@@ -1,9 +1,10 @@
-Last updated on: 2025-03-24 01:14:02 CDT-0500
+Last updated on: 2025-03-24 15:44:07 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Number Of Wines With And Without Designations Per Country | [Number Of Wines With And Without Designations Per Country](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Number_of_wines_with_and_without_designations_per_country.sql) | 2025-03-24 |
 | W Athletes On Single Or Multiple Teams | [W Athletes On Single Or Multiple Teams](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/W_Athletes_On_Single_Or_Multiple_Teams.sql) | 2025-03-23 |
 | Sum Of Numbers | [Sum Of Numbers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Sum_Of_Numbers.sql) | 2025-03-23 |
 | S Successfully Sent Messages | [S Successfully Sent Messages](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Successfully_Sent_Messages.sql) | 2025-03-23 |
