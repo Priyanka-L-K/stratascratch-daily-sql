@@ -1,4 +1,4 @@
-Last updated on: 2025-03-24 16:23:06 CDT-0500
+Last updated on: 2025-03-24 16:26:55 CDT-0500
 
 ## SQL Question Answers
 
@@ -7,6 +7,7 @@ Last updated on: 2025-03-24 16:23:06 CDT-0500
 | S Find All Possible Varieties Which Occur In Either Winemag Datasets | [S Find All Possible Varieties Which Occur In Either Winemag Datasets](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_all_possible_varieties_which_occur_in_EITHER_winemag_datasets.sql) | 2025-03-24 |
 | S Accommodates-To-Bed Ratio | [S Accommodates-To-Bed Ratio](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Accommodates-To-Bed_Ratio.sql) | 2025-03-24 |
 | Number Of Wines With And Without Designations Per Country | [Number Of Wines With And Without Designations Per Country](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Number_of_wines_with_and_without_designations_per_country.sql) | 2025-03-24 |
+| Number Of Speakers By Language | [Number Of Speakers By Language](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Number_of_Speakers_By_Language.sql) | 2025-03-24 |
 | Find Industries Wit Highest Number Of Companies | [Find Industries Wit Highest Number Of Companies](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_industries_wit_highest_number_of_companies.sql) | 2025-03-24 |
 | W Athletes On Single Or Multiple Teams | [W Athletes On Single Or Multiple Teams](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/W_Athletes_On_Single_Or_Multiple_Teams.sql) | 2025-03-23 |
 | Sum Of Numbers | [Sum Of Numbers](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Sum_Of_Numbers.sql) | 2025-03-23 |
