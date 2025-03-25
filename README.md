@@ -1,10 +1,11 @@
-Last updated on: 2025-03-25 18:42:35 CDT-0500
+Last updated on: 2025-03-25 18:45:20 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Total Wine Revenue | [S Total Wine Revenue](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Total_Wine_Revenue.sql) | 2025-03-25 |
+| Requests Acceptance Rate | [Requests Acceptance Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Requests_Acceptance_Rate.sql) | 2025-03-25 |
 | S Find All Possible Varieties Which Occur In Either Winemag Datasets | [S Find All Possible Varieties Which Occur In Either Winemag Datasets](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_all_possible_varieties_which_occur_in_EITHER_winemag_datasets.sql) | 2025-03-24 |
 | S Accommodates-To-Bed Ratio | [S Accommodates-To-Bed Ratio](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Accommodates-To-Bed_Ratio.sql) | 2025-03-24 |
 | Number Of Wines With And Without Designations Per Country | [Number Of Wines With And Without Designations Per Country](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Number_of_wines_with_and_without_designations_per_country.sql) | 2025-03-24 |
