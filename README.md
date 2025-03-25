@@ -1,4 +1,4 @@
-Last updated on: 2025-03-25 18:50:35 CDT-0500
+Last updated on: 2025-03-25 18:53:59 CDT-0500
 
 ## SQL Question Answers
 
@@ -6,6 +6,7 @@ Last updated on: 2025-03-25 18:50:35 CDT-0500
 | -------- | ----------- | ---------- |
 | S Total Wine Revenue | [S Total Wine Revenue](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Total_Wine_Revenue.sql) | 2025-03-25 |
 | Requests Acceptance Rate | [Requests Acceptance Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Requests_Acceptance_Rate.sql) | 2025-03-25 |
+| Inspections Per Risk Category | [Inspections Per Risk Category](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Inspections_Per_Risk_Category.sql) | 2025-03-25 |
 | Average Weight Medal-Winning Judo | [Average Weight Medal-Winning Judo](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Average_Weight_Medal-Winning_Judo.sql) | 2025-03-25 |
 | S Find All Possible Varieties Which Occur In Either Winemag Datasets | [S Find All Possible Varieties Which Occur In Either Winemag Datasets](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find_all_possible_varieties_which_occur_in_EITHER_winemag_datasets.sql) | 2025-03-24 |
 | S Accommodates-To-Bed Ratio | [S Accommodates-To-Bed Ratio](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Accommodates-To-Bed_Ratio.sql) | 2025-03-24 |
