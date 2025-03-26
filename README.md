@@ -1,10 +1,11 @@
-Last updated on: 2025-03-25 18:56:15 CDT-0500
+Last updated on: 2025-03-25 19:03:33 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Total Wine Revenue | [S Total Wine Revenue](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Total_Wine_Revenue.sql) | 2025-03-25 |
+| S Invalid Bank Transactions | [S Invalid Bank Transactions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Invalid_Bank_Transactions.sql) | 2025-03-25 |
 | Requests Acceptance Rate | [Requests Acceptance Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Requests_Acceptance_Rate.sql) | 2025-03-25 |
 | Inspections Per Risk Category | [Inspections Per Risk Category](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Inspections_Per_Risk_Category.sql) | 2025-03-25 |
 | Hosts' Abroad Apartments | [Hosts' Abroad Apartments](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Hosts'_Abroad_Apartments.sql) | 2025-03-25 |
