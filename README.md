@@ -1,9 +1,10 @@
-Last updated on: 2025-03-26 13:56:10 CDT-0500
+Last updated on: 2025-03-26 14:01:24 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Find Top 5 Cities With Most 5 Star Businesses | [Find Top 5 Cities With Most 5 Star Businesses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_5_cities_with_most_5_star_businesses.sql) | 2025-03-26 |
 | Find Average Age Guests Reviewed By Each Host | [Find Average Age Guests Reviewed By Each Host](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_average_age_guests_reviewed_by_each_host.sql) | 2025-03-26 |
 | S Total Wine Revenue | [S Total Wine Revenue](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Total_Wine_Revenue.sql) | 2025-03-25 |
 | S Invalid Bank Transactions | [S Invalid Bank Transactions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Invalid_Bank_Transactions.sql) | 2025-03-25 |
