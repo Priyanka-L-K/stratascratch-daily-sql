@@ -1,4 +1,4 @@
-Last updated on: 2025-03-26 18:39:41 CDT-0500
+Last updated on: 2025-03-26 18:45:12 CDT-0500
 
 ## SQL Question Answers
 
@@ -7,6 +7,7 @@ Last updated on: 2025-03-26 18:39:41 CDT-0500
 | S Extremely Late Delivery | [S Extremely Late Delivery](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Extremely_Late_Delivery.sql) | 2025-03-26 |
 | Ranking Most Active Guests | [Ranking Most Active Guests](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Ranking_Most_Active_Guests.sql) | 2025-03-26 |
 | Find Top 5 Cities With Most 5 Star Businesses | [Find Top 5 Cities With Most 5 Star Businesses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_5_cities_with_most_5_star_businesses.sql) | 2025-03-26 |
+| Find Postal Code Which Has Highest Average Inspection Score | [Find Postal Code Which Has Highest Average Inspection Score](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_postal_code_which_has_highest_average_inspection_score.sql) | 2025-03-26 |
 | Find Average Age Guests Reviewed By Each Host | [Find Average Age Guests Reviewed By Each Host](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_average_age_guests_reviewed_by_each_host.sql) | 2025-03-26 |
 | S Total Wine Revenue | [S Total Wine Revenue](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Total_Wine_Revenue.sql) | 2025-03-25 |
 | S Invalid Bank Transactions | [S Invalid Bank Transactions](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Invalid_Bank_Transactions.sql) | 2025-03-25 |
