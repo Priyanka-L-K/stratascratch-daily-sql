@@ -1,10 +1,11 @@
-Last updated on: 2025-03-26 18:47:22 CDT-0500
+Last updated on: 2025-03-26 18:54:07 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Extremely Late Delivery | [S Extremely Late Delivery](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Extremely_Late_Delivery.sql) | 2025-03-26 |
+| S Date Of Highest User Activity | [S Date Of Highest User Activity](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Date_Of_Highest_User_Activity.sql) | 2025-03-26 |
 | Ranking Most Active Guests | [Ranking Most Active Guests](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Ranking_Most_Active_Guests.sql) | 2025-03-26 |
 | Highest Salary | [Highest Salary](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Highest_Salary.sql) | 2025-03-26 |
 | Find Top 5 Cities With Most 5 Star Businesses | [Find Top 5 Cities With Most 5 Star Businesses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find_top_5_cities_with_most_5_star_businesses.sql) | 2025-03-26 |
