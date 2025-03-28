@@ -1,9 +1,10 @@
-Last updated on: 2025-03-28 13:52:32 CDT-0500
+Last updated on: 2025-03-28 14:02:03 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Sss Email Details Based On Sends | [Sss Email Details Based On Sends](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Email Details Based On Sends.sql) | 2025-03-28 |
 | Sss Actual Vs Predicted Arrival Time | [Sss Actual Vs Predicted Arrival Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Actual vs Predicted Arrival Time.sql) | 2025-03-28 |
 | S Month Which Had The Lowest Number Of Inspections Across All Years | [S Month Which Had The Lowest Number Of Inspections Across All Years](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_month which had the lowest number of inspections across all years.sql) | 2025-03-28 |
 | Distances Traveled | [Distances Traveled](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Distances_Traveled.sql) | 2025-03-28 |
