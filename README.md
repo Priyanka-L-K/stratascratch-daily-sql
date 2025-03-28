@@ -1,9 +1,10 @@
-Last updated on: 2025-03-28 01:13:54 CDT-0500
+Last updated on: 2025-03-28 13:38:01 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Sss Actual Vs Predicted Arrival Time | [Sss Actual Vs Predicted Arrival Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Actual vs Predicted Arrival Time.sql) | 2025-03-28 |
 | S Extremely Late Delivery | [S Extremely Late Delivery](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Extremely_Late_Delivery.sql) | 2025-03-26 |
 | S Date Of Highest User Activity | [S Date Of Highest User Activity](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Date_Of_Highest_User_Activity.sql) | 2025-03-26 |
 | Ranking Most Active Guests | [Ranking Most Active Guests](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Ranking_Most_Active_Guests.sql) | 2025-03-26 |
