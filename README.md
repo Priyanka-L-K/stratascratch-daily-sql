@@ -1,4 +1,4 @@
-Last updated on: 2025-03-28 14:10:35 CDT-0500
+Last updated on: 2025-03-28 14:13:35 CDT-0500
 
 ## SQL Question Answers
 
@@ -9,6 +9,7 @@ Last updated on: 2025-03-28 14:10:35 CDT-0500
 | S Month Which Had The Lowest Number Of Inspections Across All Years | [S Month Which Had The Lowest Number Of Inspections Across All Years](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_month which had the lowest number of inspections across all years.sql) | 2025-03-28 |
 | Ranking Hosts By Beds | [Ranking Hosts By Beds](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Ranking_Hosts_By_Beds.sql) | 2025-03-28 |
 | Nfl Powerhouse Colleges | [Nfl Powerhouse Colleges](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/NFL Powerhouse Colleges.sql) | 2025-03-28 |
+| Most Popular Sector In The Forbes List | [Most Popular Sector In The Forbes List](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Most popular sector in the Forbes list.sql) | 2025-03-28 |
 | Distances Traveled | [Distances Traveled](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Distances_Traveled.sql) | 2025-03-28 |
 | S Extremely Late Delivery | [S Extremely Late Delivery](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Extremely_Late_Delivery.sql) | 2025-03-26 |
 | S Date Of Highest User Activity | [S Date Of Highest User Activity](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Date_Of_Highest_User_Activity.sql) | 2025-03-26 |
