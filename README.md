@@ -1,4 +1,4 @@
-Last updated on: 2025-03-28 14:24:17 CDT-0500
+Last updated on: 2025-03-28 14:32:28 CDT-0500
 
 ## SQL Question Answers
 
@@ -8,6 +8,7 @@ Last updated on: 2025-03-28 14:24:17 CDT-0500
 | Sss Actual Vs Predicted Arrival Time | [Sss Actual Vs Predicted Arrival Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Actual vs Predicted Arrival Time.sql) | 2025-03-28 |
 | Ss Find The Lowest Score For Each Facility In Hollywood Boulevard | [Ss Find The Lowest Score For Each Facility In Hollywood Boulevard](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Find the lowest score for each facility in Hollywood Boulevard.sql) | 2025-03-28 |
 | S Month Which Had The Lowest Number Of Inspections Across All Years | [S Month Which Had The Lowest Number Of Inspections Across All Years](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_month which had the lowest number of inspections across all years.sql) | 2025-03-28 |
+| S Find All Distinct Sports That Obese People Participated In | [S Find All Distinct Sports That Obese People Participated In](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Find all distinct sports that obese people participated in.sql) | 2025-03-28 |
 | Ranking Hosts By Beds | [Ranking Hosts By Beds](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Ranking_Hosts_By_Beds.sql) | 2025-03-28 |
 | Nfl Powerhouse Colleges | [Nfl Powerhouse Colleges](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/NFL Powerhouse Colleges.sql) | 2025-03-28 |
 | Most Popular Sector In The Forbes List | [Most Popular Sector In The Forbes List](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Most popular sector in the Forbes list.sql) | 2025-03-28 |
