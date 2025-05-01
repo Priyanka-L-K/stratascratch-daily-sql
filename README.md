@@ -1,4 +1,4 @@
-Last updated on: 2025-05-01 13:07:07 CDT-0500
+Last updated on: 2025-05-01 13:13:44 CDT-0500
 
 ## SQL Question Answers
 
@@ -6,6 +6,7 @@ Last updated on: 2025-05-01 13:07:07 CDT-0500
 | -------- | ----------- | ---------- |
 | S Classify Business Type | [S Classify Business Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Classify_Business_Type.sql) | 2025-05-01 |
 | S City With Most Amenities | [S City With Most Amenities](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_City_With_Most_Amenities.sql) | 2025-05-01 |
+| S April Admin Employees | [S April Admin Employees](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_April_Admin_Employees.sql) | 2025-05-01 |
 | Lyft Driver Wages | [Lyft Driver Wages](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Lyft_Driver_Wages.sql) | 2025-05-01 |
 | Finding Updated Records | [Finding Updated Records](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Finding_Updated_Records.sql) | 2025-05-01 |
 | Bikes Last Used | [Bikes Last Used](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Bikes_Last_Used.sql) | 2025-05-01 |
