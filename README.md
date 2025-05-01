@@ -1,4 +1,4 @@
-Last updated on: 2025-05-01 13:05:37 CDT-0500
+Last updated on: 2025-05-01 13:06:07 CDT-0500
 
 ## SQL Question Answers
 
@@ -6,6 +6,7 @@ Last updated on: 2025-05-01 13:05:37 CDT-0500
 | -------- | ----------- | ---------- |
 | S Classify Business Type | [S Classify Business Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Classify_Business_Type.sql) | 2025-05-01 |
 | Finding Updated Records | [Finding Updated Records](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Finding_Updated_Records.sql) | 2025-05-01 |
+| Bikes Last Used | [Bikes Last Used](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Bikes_Last_Used.sql) | 2025-05-01 |
 | Sss Email Details Based On Sends | [Sss Email Details Based On Sends](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Email Details Based On Sends.sql) | 2025-03-28 |
 | Sss Actual Vs Predicted Arrival Time | [Sss Actual Vs Predicted Arrival Time](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Actual vs Predicted Arrival Time.sql) | 2025-03-28 |
 | Ss Find The Lowest Score For Each Facility In Hollywood Boulevard | [Ss Find The Lowest Score For Each Facility In Hollywood Boulevard](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Find the lowest score for each facility in Hollywood Boulevard.sql) | 2025-03-28 |
