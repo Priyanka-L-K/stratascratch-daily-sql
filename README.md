@@ -1,10 +1,11 @@
-Last updated on: 2025-05-01 13:06:07 CDT-0500
+Last updated on: 2025-05-01 13:06:33 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Classify Business Type | [S Classify Business Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Classify_Business_Type.sql) | 2025-05-01 |
+| Lyft Driver Wages | [Lyft Driver Wages](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Lyft_Driver_Wages.sql) | 2025-05-01 |
 | Finding Updated Records | [Finding Updated Records](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Finding_Updated_Records.sql) | 2025-05-01 |
 | Bikes Last Used | [Bikes Last Used](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Bikes_Last_Used.sql) | 2025-05-01 |
 | Sss Email Details Based On Sends | [Sss Email Details Based On Sends](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Email Details Based On Sends.sql) | 2025-03-28 |
