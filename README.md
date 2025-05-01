@@ -1,9 +1,10 @@
-Last updated on: 2025-05-01 13:13:44 CDT-0500
+Last updated on: 2025-05-01 16:12:18 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Ss Count Occurrences Of Words In Drafts | [Ss Count Occurrences Of Words In Drafts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Count_Occurrences_Of_Words_In_Drafts.sql) | 2025-05-01 |
 | S Classify Business Type | [S Classify Business Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Classify_Business_Type.sql) | 2025-05-01 |
 | S City With Most Amenities | [S City With Most Amenities](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_City_With_Most_Amenities.sql) | 2025-05-01 |
 | S April Admin Employees | [S April Admin Employees](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_April_Admin_Employees.sql) | 2025-05-01 |
