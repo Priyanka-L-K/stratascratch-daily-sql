@@ -1,10 +1,11 @@
-Last updated on: 2025-05-02 13:52:19 CDT-0500
+Last updated on: 2025-05-02 14:19:23 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | S Top Percentile Fraud | [S Top Percentile Fraud](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_Percentile_Fraud.sql) | 2025-05-02 |
+| S Spam Posts | [S Spam Posts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Spam_Posts.sql) | 2025-05-02 |
 | Email Preference Missing | [Email Preference Missing](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Email_Preference_Missing.sql) | 2025-05-02 |
 | Average Salaries | [Average Salaries](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Average_Salaries.sql) | 2025-05-02 |
 | Ss Count Occurrences Of Words In Drafts | [Ss Count Occurrences Of Words In Drafts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Count_Occurrences_Of_Words_In_Drafts.sql) | 2025-05-01 |
