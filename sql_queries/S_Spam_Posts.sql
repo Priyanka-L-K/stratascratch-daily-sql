@@ -1,3 +1,5 @@
+-- Its is '.*spam.*' not '.*spam*.'
+
 with all_viewed_posts as (select fp.post_date, count(*) as all_view_posts
 from facebook_posts as fp
 inner join facebook_post_views as fpv
