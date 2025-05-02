@@ -1,38 +1,71 @@
--- 1. REGEXP_REPLACE()
--- Purpose: Removes (or replaces) parts of a string using a regular expression.
--- Syntax:
--- REGEXP_REPLACE(string, pattern, replacement)
--- Example:
--- REGEXP_REPLACE('Hello, world!', '[[:punct:]]', '')
--- -- Result: 'Hello world'
+1. REGEXP_REPLACE()
+Purpose: Removes (or replaces) parts of a string using a regular expression.
+Syntax:
+REGEXP_REPLACE(string, pattern, replacement)
+Example:
+REGEXP_REPLACE('Hello, world!', '[[:punct:]]', '')
+-- Result: 'Hello world'
   
--- 2. REPLACE()
--- Purpose: Replaces all instances of a substring with another.
--- Syntax:
--- REPLACE(original_string, search_string, replace_string)
--- Example:
--- REPLACE('a b c', ' ', '-')
--- -- Result: 'a-b-c'
+2. REPLACE()
+Purpose: Replaces all instances of a substring with another.
+Syntax:
+REPLACE(original_string, search_string, replace_string)
+Example:
+REPLACE('a b c', ' ', '-')
+-- Result: 'a-b-c'
   
--- 3. CONCAT()
--- Purpose: Combines multiple strings into one.
--- Syntax:
--- CONCAT(string1, string2, ..., stringN)
--- Example:
--- CONCAT('a', 'b', 'c')
--- -- Result: 'abc'
+3. CONCAT()
+Purpose: Combines multiple strings into one.
+Syntax:
+CONCAT(string1, string2, ..., stringN)
+Example:
+CONCAT('a', 'b', 'c')
+-- Result: 'abc'
   
--- 4. JSON_TABLE()
--- Purpose: Turns a JSON array into a virtual table (rows from array items).
--- Syntax:
--- JSON_TABLE(
---   json_string,
---   '$[*]'
---   COLUMNS (
---     column_name datatype PATH '$'
---   )
--- )
--- Example:
--- JSON_TABLE('["cat","dog"]', '$[*]'
---   COLUMNS (word VARCHAR(100) PATH '$')
--- )
+4. JSON_TABLE()
+Purpose: Turns a JSON array into a virtual table (rows from array items).
+Syntax:
+JSON_TABLE(
+  json_string,
+  '$[*]'
+  COLUMNS (
+    column_name datatype PATH '$'
+  )
+)
+Example:
+JSON_TABLE('["cat","dog"]', '$[*]'
+  COLUMNS (word VARCHAR(100) PATH '$')
+)
+
+🧮 PERCENTILE_CONT(p) – “What value lies at the top X%?”
+Think: “What’s the test score that separates the top 5% of students?”
+You give it a percentile (like 0.95 for 95%), and it tells you the exact score at that point.
+
+SELECT PERCENTILE_CONT(0.95) WITHIN GROUP (ORDER BY fraud_score) FROM fraud_data;
+This means: “Give me the fraud score where 95% of scores are below it.”
+
+🪜 NTILE(n) – “Split people into groups”
+Think: “Put all employees into 4 performance groups (quartiles)”
+It divides your sorted data into n groups, and tells you which group each row is in.
+
+SELECT NTILE(4) OVER (ORDER BY fraud_score DESC) FROM fraud_data;
+That assigns a tile number (1 to 4) to each record.
+If you use NTILE(100), you get percentiles (1 to 100).
+
+📊 PERCENT_RANK() – “How high did I rank compared to others?”
+Think: “What’s my score’s percentile rank?”
+It gives a decimal from 0 to 1 based on position in the group.
+
+SELECT PERCENT_RANK() OVER (ORDER BY fraud_score) FROM fraud_data;
+Example:
+If you're the highest, you get 1.0
+If you're average, maybe 0.5
+If you're lowest, 0.0
+
+Visual Summary (Fraud Score: [10, 20, 30, 40, 50])
+fraud_score	NTILE(5)	PERCENT_RANK()
+10	1	0.00
+20	2	0.25
+30	3	0.50
+40	4	0.75
+50	5	1.00
