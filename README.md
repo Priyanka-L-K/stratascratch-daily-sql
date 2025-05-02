@@ -1,10 +1,11 @@
-Last updated on: 2025-05-02 16:25:02 CDT-0500
+Last updated on: 2025-05-02 16:31:35 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | Top Cool Votes | [Top Cool Votes](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_Cool_Votes.sql) | 2025-05-02 |
+| Ss Premium Vs Freemium | [Ss Premium Vs Freemium](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Premium_vs_Freemium.sql) | 2025-05-02 |
 | S Top Percentile Fraud | [S Top Percentile Fraud](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_Percentile_Fraud.sql) | 2025-05-02 |
 | S Spam Posts | [S Spam Posts](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Spam_Posts.sql) | 2025-05-02 |
 | S Premium Vs Freemium | [S Premium Vs Freemium](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Premium_vs_Freemium.sql) | 2025-05-02 |
