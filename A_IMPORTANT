@@ -37,14 +37,14 @@ JSON_TABLE('["cat","dog"]', '$[*]'
   COLUMNS (word VARCHAR(100) PATH '$')
 )
 
-🧮 PERCENTILE_CONT(p) – “What value lies at the top X%?”
+5. PERCENTILE_CONT(p) – “What value lies at the top X%?”
 Think: “What’s the test score that separates the top 5% of students?”
 You give it a percentile (like 0.95 for 95%), and it tells you the exact score at that point.
 
 SELECT PERCENTILE_CONT(0.95) WITHIN GROUP (ORDER BY fraud_score) FROM fraud_data;
 This means: “Give me the fraud score where 95% of scores are below it.”
 
-🪜 NTILE(n) – “Split people into groups”
+6. NTILE(n) – “Split people into groups”
 Think: “Put all employees into 4 performance groups (quartiles)”
 It divides your sorted data into n groups, and tells you which group each row is in.
 
@@ -52,7 +52,7 @@ SELECT NTILE(4) OVER (ORDER BY fraud_score DESC) FROM fraud_data;
 That assigns a tile number (1 to 4) to each record.
 If you use NTILE(100), you get percentiles (1 to 100).
 
-📊 PERCENT_RANK() – “How high did I rank compared to others?”
+7. PERCENT_RANK() – “How high did I rank compared to others?”
 Think: “What’s my score’s percentile rank?”
 It gives a decimal from 0 to 1 based on position in the group.
 
@@ -70,7 +70,7 @@ fraud_score	NTILE(5)	PERCENT_RANK()
 40	4	0.75
 50	5	1.00
 
-CONCAT()
+8. CONCAT()
 Purpose: Joins strings together.
 
 Syntax:
@@ -78,3 +78,9 @@ CONCAT(string1, string2, ..., stringN)
 
 Example:
 CONCAT('John', ' ', 'Doe')
+
+9. CAST() WHEN DOING DIVISION
+
+When doing division have the numerator cast as float or else it won't give any answer.
+Ex: 3/5 = 0
+but cast(3 as float)/5 = 0.6
