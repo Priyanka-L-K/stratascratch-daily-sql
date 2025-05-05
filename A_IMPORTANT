@@ -69,3 +69,12 @@ fraud_score	NTILE(5)	PERCENT_RANK()
 30	3	0.50
 40	4	0.75
 50	5	1.00
+
+CONCAT()
+Purpose: Joins strings together.
+
+Syntax:
+CONCAT(string1, string2, ..., stringN)
+
+Example:
+CONCAT('John', ' ', 'Doe')
