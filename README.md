@@ -1,9 +1,10 @@
-Last updated on: 2025-05-05 01:14:55 CDT-0500
+Last updated on: 2025-05-05 13:18:47 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| S User With Most Approved Flags | [S User With Most Approved Flags](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_User_with_Most_Approved_Flags.sql) | 2025-05-05 |
 | Top Cool Votes | [Top Cool Votes](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_Cool_Votes.sql) | 2025-05-02 |
 | Ss Premium Vs Freemium | [Ss Premium Vs Freemium](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Premium_vs_Freemium.sql) | 2025-05-02 |
 | S Top Percentile Fraud | [S Top Percentile Fraud](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_Top_Percentile_Fraud.sql) | 2025-05-02 |
