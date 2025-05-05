@@ -84,3 +84,11 @@ CONCAT('John', ' ', 'Doe')
 When doing division have the numerator cast as float or else it won't give any answer.
 Ex: 3/5 = 0
 but cast(3 as float)/5 = 0.6
+
+10. LENGTH() function returns the number of bytes in a string, not the number of characters (important if you're dealing with multi-byte character sets like UTF-8).
+Syntax: LENGTH(string)
+Example: SELECT LENGTH('hello'); -- returns 5
+🧠 Tip:
+If you want the number of characters, use CHAR_LENGTH() instead:
+SELECT CHAR_LENGTH('你好'); -- returns 2
+SELECT LENGTH('你好');      -- returns 6 (each character is 3 bytes in 
