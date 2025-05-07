@@ -1,4 +1,5 @@
 -- I had some confusion doing the cte user_friends because i was thinking of using join like self join or full outer join but gpt helped by using union all
+-- for the final query we can use with or without cross join
 
 with user_friends as
 (SELECT user1 AS user, COUNT(*) AS friends_count
@@ -20,4 +21,5 @@ distinct_users as
 from friends)
 
 select user, tot_count/dist_user * 100
-from friends, distinct_users;
+from friends
+cross join distinct_users;
