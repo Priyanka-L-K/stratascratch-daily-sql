@@ -92,3 +92,6 @@ Example: SELECT LENGTH('hello'); -- returns 5
 If you want the number of characters, use CHAR_LENGTH() instead:
 SELECT CHAR_LENGTH('你好'); -- returns 2
 SELECT LENGTH('你好');      -- returns 6 (each character is 3 bytes in 
+
+11. Cross Join
+The CROSS JOIN operation in SQL combines every row from the first table with every row from the second table. This results in a Cartesian product of the two tables, meaning every row from the first table is paired with every row from the second table.
