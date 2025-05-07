@@ -1,9 +1,10 @@
-Last updated on: 2025-05-07 01:14:16 CDT-0500
+Last updated on: 2025-05-07 16:07:09 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Ss Popularity Percentage | [Ss Popularity Percentage](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Popularity_Percentage.sql) | 2025-05-07 |
 | Sss Monthly Percentage Difference | [Sss Monthly Percentage Difference](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Monthly_Percentage_Difference.sql) | 2025-05-06 |
 | Sss Cookbook Recipes | [Sss Cookbook Recipes](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Cookbook_Recipes.sql) | 2025-05-06 |
 | S User With Most Approved Flags | [S User With Most Approved Flags](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_User_with_Most_Approved_Flags.sql) | 2025-05-05 |
