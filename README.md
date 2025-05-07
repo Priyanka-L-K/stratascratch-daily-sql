@@ -1,9 +1,10 @@
-Last updated on: 2025-05-07 16:12:10 CDT-0500
+Last updated on: 2025-05-07 16:19:39 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Top 5 States With 5 Star Businesses | [Top 5 States With 5 Star Businesses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_5_States_With_5_Star_Businesses.sql) | 2025-05-07 |
 | Ss Popularity Percentage | [Ss Popularity Percentage](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Popularity_Percentage.sql) | 2025-05-07 |
 | Sss Monthly Percentage Difference | [Sss Monthly Percentage Difference](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Monthly_Percentage_Difference.sql) | 2025-05-06 |
 | Sss Cookbook Recipes | [Sss Cookbook Recipes](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Cookbook_Recipes.sql) | 2025-05-06 |
