@@ -1,4 +1,4 @@
-Last updated on: 2025-05-27 16:19:24 CDT-0500
+Last updated on: 2025-05-27 16:33:21 CDT-0500
 
 ## SQL Question Answers
 
@@ -8,6 +8,7 @@ Last updated on: 2025-05-27 16:19:24 CDT-0500
 | Sss Marketing Campaign Success [Advanced] | [Sss Marketing Campaign Success [Advanced]](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Marketing_Campaign_Success_[Advanced].sql) | 2025-05-27 |
 | Sss Counting Instances In Text | [Sss Counting Instances In Text](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Counting Instances in Text.sql) | 2025-05-27 |
 | Ss Sales Percentage Week'S Beginning And End | [Ss Sales Percentage Week'S Beginning And End](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Sales Percentage Week's Beginning and End.sql) | 2025-05-27 |
+| S 3Rd Most Reported Health Issues | [S 3Rd Most Reported Health Issues](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/S_3rd Most Reported Health Issues.sql) | 2025-05-27 |
 | Top 5 States With 5 Star Businesses | [Top 5 States With 5 Star Businesses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_5_States_With_5_Star_Businesses.sql) | 2025-05-07 |
 | Ss Popularity Percentage | [Ss Popularity Percentage](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Popularity_Percentage.sql) | 2025-05-07 |
 | Sss Monthly Percentage Difference | [Sss Monthly Percentage Difference](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Monthly_Percentage_Difference.sql) | 2025-05-06 |
