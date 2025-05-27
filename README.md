@@ -1,10 +1,11 @@
-Last updated on: 2025-05-27 12:59:56 CDT-0500
+Last updated on: 2025-05-27 13:08:49 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | Sss Retention Rate | [Sss Retention Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Retention_Rate.sql) | 2025-05-27 |
+| Sss Marketing Campaign Success [Advanced] | [Sss Marketing Campaign Success [Advanced]](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Marketing_Campaign_Success_[Advanced].sql) | 2025-05-27 |
 | Top 5 States With 5 Star Businesses | [Top 5 States With 5 Star Businesses](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Top_5_States_With_5_Star_Businesses.sql) | 2025-05-07 |
 | Ss Popularity Percentage | [Ss Popularity Percentage](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SS_Popularity_Percentage.sql) | 2025-05-07 |
 | Sss Monthly Percentage Difference | [Sss Monthly Percentage Difference](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Monthly_Percentage_Difference.sql) | 2025-05-06 |
