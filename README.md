@@ -1,9 +1,10 @@
-Last updated on: 2025-07-24 01:16:24 CDT-0500
+Last updated on: 2025-07-24 07:32:03 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Aa Rules Determining Grades | [Aa Rules Determining Grades](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_Rules_Determining_Grades.sql) | 2025-07-24 |
 | Year With Highest Number Of Players | [Year With Highest Number Of Players](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/year_with_highest_number_of_players.sql) | 2025-07-23 |
 | Sss Retention Rate | [Sss Retention Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Retention_Rate.sql) | 2025-05-27 |
 | Sss Marketing Campaign Success [Advanced] | [Sss Marketing Campaign Success [Advanced]](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Marketing_Campaign_Success_[Advanced].sql) | 2025-05-27 |
