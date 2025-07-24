@@ -1,9 +1,10 @@
-Last updated on: 2025-07-24 07:54:30 CDT-0500
+Last updated on: 2025-07-24 08:00:42 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Find The Average Difference Between Booking And Check-In Dates | [Find The Average Difference Between Booking And Check-In Dates](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find the average difference between booking and check-in dates.sql) | 2025-07-24 |
 | Aa The Best Artist | [Aa The Best Artist](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_The_Best_Artist.sql) | 2025-07-24 |
 | Aa Rules Determining Grades | [Aa Rules Determining Grades](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_Rules_Determining_Grades.sql) | 2025-07-24 |
 | A Total Number Low Risk Inspections 2017 | [A Total Number Low Risk Inspections 2017](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/A_Total_number_low_risk_inspections_2017.sql) | 2025-07-24 |
