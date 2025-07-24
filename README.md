@@ -1,9 +1,10 @@
-Last updated on: 2025-07-24 07:33:23 CDT-0500
+Last updated on: 2025-07-24 07:54:30 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Aa The Best Artist | [Aa The Best Artist](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_The_Best_Artist.sql) | 2025-07-24 |
 | Aa Rules Determining Grades | [Aa Rules Determining Grades](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_Rules_Determining_Grades.sql) | 2025-07-24 |
 | A Total Number Low Risk Inspections 2017 | [A Total Number Low Risk Inspections 2017](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/A_Total_number_low_risk_inspections_2017.sql) | 2025-07-24 |
 | Year With Highest Number Of Players | [Year With Highest Number Of Players](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/year_with_highest_number_of_players.sql) | 2025-07-23 |
