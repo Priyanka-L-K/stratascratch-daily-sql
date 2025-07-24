@@ -1,4 +1,4 @@
-Last updated on: 2025-07-24 08:16:43 CDT-0500
+Last updated on: 2025-07-24 08:21:57 CDT-0500
 
 ## SQL Question Answers
 
@@ -9,6 +9,7 @@ Last updated on: 2025-07-24 08:16:43 CDT-0500
 | Aaa Find The Number Of Inspections For Each Risk Category By Inspection Type | [Aaa Find The Number Of Inspections For Each Risk Category By Inspection Type](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAA_Find the number of inspections for each risk category by inspection type.sql) | 2025-07-24 |
 | Aa The Best Artist | [Aa The Best Artist](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_The_Best_Artist.sql) | 2025-07-24 |
 | Aa Rules Determining Grades | [Aa Rules Determining Grades](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_Rules_Determining_Grades.sql) | 2025-07-24 |
+| Aa Income By Title And Gender | [Aa Income By Title And Gender](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AA_Income By Title and Gender.sql) | 2025-07-24 |
 | A Total Number Low Risk Inspections 2017 | [A Total Number Low Risk Inspections 2017](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/A_Total_number_low_risk_inspections_2017.sql) | 2025-07-24 |
 | Year With Highest Number Of Players | [Year With Highest Number Of Players](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/year_with_highest_number_of_players.sql) | 2025-07-23 |
 | Sss Retention Rate | [Sss Retention Rate](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/SSS_Retention_Rate.sql) | 2025-05-27 |
