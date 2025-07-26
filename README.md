@@ -1,9 +1,10 @@
-Last updated on: 2025-07-26 01:14:05 CDT-0500
+Last updated on: 2025-07-26 12:29:03 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Aaaa Find The Unique Room Types | [Aaaa Find The Unique Room Types](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_Find the unique room types.sql) | 2025-07-26 |
 | Favorite Customer | [Favorite Customer](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Favorite Customer.sql) | 2025-07-25 |
 | Aaaa Recommendation System | [Aaaa Recommendation System](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_Recommendation System.sql) | 2025-07-25 |
 | Find The Average Difference Between Booking And Check-In Dates | [Find The Average Difference Between Booking And Check-In Dates](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Find the average difference between booking and check-in dates.sql) | 2025-07-24 |
