@@ -1,9 +1,10 @@
-Last updated on: 2025-07-26 12:39:55 CDT-0500
+Last updated on: 2025-07-26 13:53:12 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Aaaa World Tours | [Aaaa World Tours](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_World Tours.sql) | 2025-07-27 |
 | Flight Satisfaction Query | [Flight Satisfaction Query](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Flight Satisfaction Query.sql) | 2025-07-26 |
 | Aaaa Find The Unique Room Types | [Aaaa Find The Unique Room Types](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_Find the unique room types.sql) | 2025-07-26 |
 | Favorite Customer | [Favorite Customer](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Favorite Customer.sql) | 2025-07-25 |
