@@ -1,10 +1,11 @@
-Last updated on: 2025-09-04 05:56:30 CDT-0500
+Last updated on: 2025-09-04 06:14:57 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
 | Aaaa Find The Genre Of The Person With The Most Number Of Oscar Winnings | [Aaaa Find The Genre Of The Person With The Most Number Of Oscar Winnings](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_Find the genre of the person with the most number of oscar winnings.sql) | 2025-09-04 |
+| Aaa Growth Of Airbnb | [Aaa Growth Of Airbnb](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAA_Growth of Airbnb.sql) | 2025-09-04 |
 | Aaaa World Tours | [Aaaa World Tours](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_World Tours.sql) | 2025-07-27 |
 | Flight Satisfaction Query | [Flight Satisfaction Query](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Flight Satisfaction Query.sql) | 2025-07-26 |
 | Aaaa Find The Unique Room Types | [Aaaa Find The Unique Room Types](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_Find the unique room types.sql) | 2025-07-26 |
