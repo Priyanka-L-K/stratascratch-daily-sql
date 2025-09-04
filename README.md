@@ -1,9 +1,10 @@
-Last updated on: 2025-09-04 06:14:57 CDT-0500
+Last updated on: 2025-09-04 07:39:39 CDT-0500
 
 ## SQL Question Answers
 
 | Question | Answer Link | Date Added |
 | -------- | ----------- | ---------- |
+| Spotify Penetration Analysis | [Spotify Penetration Analysis](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/Spotify Penetration Analysis.sql) | 2025-09-04 |
 | Aaaa Find The Genre Of The Person With The Most Number Of Oscar Winnings | [Aaaa Find The Genre Of The Person With The Most Number Of Oscar Winnings](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_Find the genre of the person with the most number of oscar winnings.sql) | 2025-09-04 |
 | Aaa Growth Of Airbnb | [Aaa Growth Of Airbnb](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAA_Growth of Airbnb.sql) | 2025-09-04 |
 | Aaaa World Tours | [Aaaa World Tours](https://github.com/Priyanka-L-K/stratascratch-daily-sql/blob/main/sql_queries/AAAA_World Tours.sql) | 2025-07-27 |
